@@ -1,0 +1,36 @@
+.body{
+    display: flex;
+    justify-content: center;
+    padding-top: 50px;
+    background-color: rgb(247, 136, 136);
+}
+.div_boyuk{
+   
+}
+.div_kicik{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+.input{
+    width: 50%;
+    height: 30px;
+    font-size: 25px;
+}
+.enter{
+    width: 70px;
+    height: 35px;
+    background-color: rgb(168, 168, 168);
+}
+.delete{
+    width: 70px;
+    height: 35px;
+    background-color: rgb(168, 168, 168);
+}
+.ul{
+
+}
+.erorMassage{
+    font-size: 20px;
+    color: rgb(62, 62, 62);
+}
